@@ -1,6 +1,4 @@
 # **AggieHack 2025**
-> ### **Hackathon Kickoff**
-> **Date/Time:** Sunday, April 13th, 11:00AM PT
 > **Timeline:**
 > - Hackathon Kickoff - Sunday, April 13th at 11:00 AM (*online*)
 > - Hackathon Begins - Sunday, April 13th at 12:00 PM (*online*)
