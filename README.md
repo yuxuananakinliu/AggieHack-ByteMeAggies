@@ -7,8 +7,8 @@
 > - Live Presentation - Monday, April 21th 11:00 AM (*online*)
 > - Closing Ceremony - Tuesday, April 22nd 6:00 PM (*in person*)
 
-## **Ultimate Goal:**
-### Build a next-gen *AI-Powered Crisis Intelligence System* that becomes the thinking brain of a smart city during a <u>multi-disaster scenario</u>.
+## ** Goal **
+Build a next-gen *AI-Powered Crisis Intelligence System* that becomes the thinking brain of a smart city during a <u>multi-disaster scenario</u>.
 
 <br/>
 
