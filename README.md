@@ -34,8 +34,3 @@ Build a next-gen *AI-Powered Crisis Intelligence System* that becomes the thinki
 - `weather_historical.csv` | Historical data of the weather readings
 
 <br/>
-
-## **Deliverables:**
-- [ ] Slide Deck (*up to 9 slides*)
-- [ ] One-Page Summary (*Title, teamname, what does the system do, why matters*)
-- [ ] Demo (*Optional*)
